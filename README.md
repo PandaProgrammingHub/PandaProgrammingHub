@@ -1,6 +1,6 @@
 ### Hi there 👋, Nice to see you!
 
-### I'm Santosh Kumar Panda, Full-Stack Javascript developer from India :india:
+### I'm Santosh Panda, Full-Stack Javascript developer from India :india:
 
 - 👨‍💻 I’m currently working as a Full Stack JavaScript Developer|| Node JS || GraphQL || React Js || Rest API || Angular || MongoDB || AWS 
 - 🏢 I'm currently working at L&T infotech
