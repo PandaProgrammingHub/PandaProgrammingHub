@@ -12,7 +12,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PandaProgrammingHub&hide=issues&show_icons=true&count_private=true&theme=prussian)
 
 ## Find me at
-[![Linkedin Badge](https://img.shields.io/badge/-Santosh%20Panda-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santoshpanda299/))
+[![Linkedin Badge](https://img.shields.io/badge/-Santosh%20Panda-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santoshpanda299/)
 [![Gmail Badge](https://img.shields.io/badge/-santoshpanda299@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:santoshpanda299@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-PandaProgrammingHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PandaProgrammingHub)
 [![Twitter Badge](https://img.shields.io/badge/-@santoshpandasan-007ACC?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/santoshpandasan)
