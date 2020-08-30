@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Nice to see you!
 
-<!--
-**PandaProgrammingHub/PandaProgrammingHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'am Santosh Kumar Panda, Full Stack Javascript developer from India :india:
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working : As Full Stack JavaScript Developer|| Node JS || GraphQL || React Js || Rest API || Angular|| Microservice|| MongoDB || AWS || Docker 
+- 🏢 I'm currently working at L&T infotech
+- 🌱 I’m currently learning: Microservice Using NodeJS and Build a scalable WebAPP application on AWS that handles 10 Million users.
+- 💬 Ask me about Node Js, Express Js, React, Javascript, MongoDB
+- 😄 My Pronouns: He/Him
+- ⚡️ Fun fact: Happy Coding 😄 Keep on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=PandaProgrammingHub&hide=issues&show_icons=true&count_private=true&theme=prussian)
+
+## Find me at
+[![Linkedin Badge](https://img.shields.io/badge/-Santosh%20Panda-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santoshpanda299/))
+[![Gmail Badge](https://img.shields.io/badge/-santoshpanda299@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:santoshpanda299@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-PandaProgrammingHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PandaProgrammingHub)
+[![Twitter Badge](https://img.shields.io/badge/-@santoshpandasan-007ACC?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/santoshpandasan)
