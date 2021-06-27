@@ -3,7 +3,7 @@
 ### I'm Santosh Panda, Full-Stack Javascript developer from India :india:
 
 - 👨‍💻 I’m currently working as a Full Stack JavaScript Developer|| Node JS || GraphQL || React Js || Rest API || Angular || MongoDB || AWS 
-- 🏢 I'm currently working at L&T infotech
+- 🏢 I'm currently working at Lowe's Companies, Inc.
 - 🌱 I’m currently learning: Microservice Using NodeJS and Build a scalable WebAPP application on AWS that handles 10 Million users.
 - 💬 Ask me about Node Js, Express Js, React, Javascript, MongoDB
 - 😄 My Pronouns: He/Him
